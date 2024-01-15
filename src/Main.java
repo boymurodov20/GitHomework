@@ -7,6 +7,7 @@ public class Main {
 
         System.out.println(" salom");
         System.out.println(" third commit");
+        System.out.println(" yana nmadr");
 
 
 
