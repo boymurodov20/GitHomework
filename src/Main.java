@@ -5,6 +5,7 @@ public class Main {
 
      Student student = new Student("ff",20);
 
+        System.out.println(" salom");
 
 
 
